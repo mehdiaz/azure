@@ -4,7 +4,7 @@
 		"annotations": [],
 		"type": "HttpServer",
 		"typeProperties": {
-			"url": "https://www.researchgate.net/profile/Said_Nadeem2/publication/340078234_CORONAVIRUS_COVID-19_AVAILABLE_FREE_LITERATURE_PROVIDED_BY_VARIOUS_COMPANIES_JOURNALS_AND_ORGANIZATIONS_AROUND_THE_WORLD_JOURNAL_OF_ONGOING_CHEMICAL_RESEARCH/links/5e83954aa6fdcca789e57d38/CORONAVIRUS-COVID-19-AVAILABLE-FREE-LITERATURE-PROVIDED-BY-VARIOUS-COMPANIES-JOURNALS-AND-ORGANIZATIONS-AROUND-THE-WORLD-JOURNAL-OF-ONGOING-CHEMICAL-RESEARCH.pdf",
+			"url": "https://www.researchgate.net/",
 			"enableServerCertificateValidation": true,
 			"authenticationType": "Anonymous"
 		}
